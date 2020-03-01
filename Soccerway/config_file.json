@@ -1,0 +1,11 @@
+{
+  "soccerway_url": "https://int.soccerway.com/",
+  "team_info_wb_path": "soccer_teams.xlsx",
+  "team_info_sheet_name": "Team Info",
+  "team_data_wb_path": "teams_results_and_schedule.xlsx",
+  "columns": ["Weekday", "Date", "Time", "Competition", "Home Team", "Score",
+    "Away Team"],
+  "max_retries": 3,
+  "error_sheet_name": "Errors Summary",
+  "timeout_ms": 3000
+}
